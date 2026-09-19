@@ -70,7 +70,7 @@ GPT_CHAT()
 # Una clase es como un molde o plantilla para crear objetos
 # Aquí estamos creando una clase llamada GPT_BOT.
 
-# "def" sirve para crear una función o método.
+# "def" sirve para crear una función o método
 # Una función es un bloque de código que realiza una tarea "responder" es el nombre de esta función 
 # "mensaje" es el dato que recibe la función.
 
